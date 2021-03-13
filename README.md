@@ -1,7 +1,6 @@
 # JapaneseDatasetSite
 
 ・https://www.nii.ac.jp/dsc/idr/datalist.html
-
 情報学研究データリポジトリ　ー民間企業から研究者用のデータまでがまとめられているー
   
 ・　http://linkdata.org/home
