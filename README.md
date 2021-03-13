@@ -20,6 +20,9 @@
  
 ・　https://github.com/aozorahack/aozorabunko_text
 　青空文庫のテキストのみをまとめたもの
+ 
+ ・　https://github.com/hppRC/aozorabunko-extractor
+ ルビやその他の記号を削除、元ファイルごとに二重改行で区切った単一のテキストファイルを生成するツール
 
 ・　http://phontron.com/japanese-translation-data.php?lang=ja
 対訳コーパス
