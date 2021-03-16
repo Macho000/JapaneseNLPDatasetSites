@@ -23,7 +23,7 @@
   
 
   
-  - https://www.aozora.gr.jp/
+- https://www.aozora.gr.jp/
 
 　 - 青空文庫のデータセット
  
@@ -34,7 +34,7 @@
  
 
  
- - https://github.com/hppRC/aozorabunko-extractor
+- https://github.com/hppRC/aozorabunko-extractor
  
   - 青空文庫のテキストをルビやその他の記号を削除、元ファイルごとに二重改行で区切った単一のテキストファイルを生成するツール
  
