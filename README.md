@@ -25,12 +25,12 @@
   
 - https://www.aozora.gr.jp/
 
-　 - 青空文庫のデータセット
+  - 青空文庫のデータセット
  
  
 - https://github.com/aozorahack/aozorabunko_text
 
-　- 青空文庫のテキストのみをまとめたもの
+  - 青空文庫のテキストのみをまとめたもの
  
 
  
